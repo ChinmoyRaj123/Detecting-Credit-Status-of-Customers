@@ -1,4 +1,4 @@
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsyo8UskgL7QrA2fwlKGmlGp0LqgyGgeKVmA&usqp=CAU)
+![alt text](https://lh3.googleusercontent.com/proxy/_5KVV1nW-bHBN6gpW2j1o0EwmeM8QpaLgnOa889kLsnfHVyBk_Vw8XSz2-DhO4veslBkyQjvLedjLxKBOVtk6Qeh0owl9xd45SpNAAV18qqHDCYWBwFHFySPFWFB5UCJkF5qzKXV933EYCMZlZYO5gYH)
 
 # Know your Credit Status
 
@@ -14,7 +14,7 @@
 ## Installation
 The code is written in Python 3.7 in Jupyter Notebook. If you dont have it you can first download Anaconda platform [here](https://docs.anaconda.com/anaconda/install/), where You will find the Jupyter Notebook within it. Jupyter Notebooks are powerful, versatile, shareable and provide the ability to perform data visualization in the same environment.It also allows data scientists to create and share their documents, from codes to full blown reports. They help data scientists streamline their work and enable more productivity and easy collaboration. Due to these and several other reasons you will see below, Jupyter Notebooks are one of the most popular tools among data scientists.
 
-After installing Anaconda, you have to install a "Scikit Learn" library for preprocessing the data. You can install Scikit Learn [here](https://scikit-learn.org/stable/install.html)
+After installing Anaconda, you have to install a "Scikit Learn" library for preprocessing the data. You can install Scikit Learn [here.](https://scikit-learn.org/stable/install.html)
 
 After completing the installation process, run the Jupyter Notebook where you can use the code (`Credit Status.ipynb`).
 
