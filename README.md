@@ -1,10 +1,9 @@
-![alt text](https://phandroid.com/wp-content/uploads/2011/07/imdb-banner-550x268.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsyo8UskgL7QrA2fwlKGmlGp0LqgyGgeKVmA&usqp=CAU)
 
-# IMDB-movie-recommendation
+# Know your Credit Status
 
 ## Table of content
   * [Overview]
-  * [Motivation]
   * [Installation]
   * [Project Details]
   * [Technologies used]
@@ -27,5 +26,6 @@ As you have learned that this project is built on 1000 IMDb rated movies, i have
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 ![](https://i.redd.it/c6h7rok9c2v31.jpg)
 ![](https://twilio-cms-prod.s3.amazonaws.com/original_images/jupyter_python_numpy.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png)
 
 
