@@ -1,4 +1,4 @@
-![alt text](https://lh3.googleusercontent.com/proxy/_5KVV1nW-bHBN6gpW2j1o0EwmeM8QpaLgnOa889kLsnfHVyBk_Vw8XSz2-DhO4veslBkyQjvLedjLxKBOVtk6Qeh0owl9xd45SpNAAV18qqHDCYWBwFHFySPFWFB5UCJkF5qzKXV933EYCMZlZYO5gYH)
+![alt text](http://blog.mycreditstatus.in/wp-content/uploads/2018/08/cropped-MyCreditStatus_logo-2.png)
 
 # Know your Credit Status
 
